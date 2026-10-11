@@ -14,8 +14,9 @@
 游戏实机：
 
 <img width="2560" height="1400" alt="P2" src="https://github.com/user-attachments/assets/404d4bb7-308a-4724-b04f-96dff36aa181" />
-<img width="2560" height="1440" alt="P3" src="https://github.com/user-attachments/assets/d03c3349-7554-4a38-935c-cf362e23c116" />
-<img width="2560" height="1440" alt="P4" src="https://github.com/user-attachments/assets/0a485d9c-6aa5-4b5a-8ee7-f804a2d8ecf0" />
+<img width="2560" height="1440" alt="P3" src="https://github.com/user-attachments/assets/d235be72-c630-445f-97cb-734654a0a3f3" />
+<img width="2560" height="1440" alt="P4" src="https://github.com/user-attachments/assets/4568a62c-339c-455e-b348-7a51e4b375c7" />
+
 
 
 
