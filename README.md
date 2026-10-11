@@ -8,11 +8,11 @@
 
 启动器界面：
 
-<img width="596" height="455" alt="PLAOL_Launcher" src="https://github.com/user-attachments/assets/8f776da8-4a8f-4f9b-8c82-4153f30e45bc" />
+<img width="596" height="493" alt="PLAL" src="https://github.com/user-attachments/assets/22e0e9f6-d630-4776-b347-84706bf4ed49" />
+
 
 游戏实机：
 
-<img width="1282" height="747" alt="P0" src="https://github.com/user-attachments/assets/175535bf-9e5b-418d-8034-6e14d5be94f5" />
 <img width="2560" height="1400" alt="P2" src="https://github.com/user-attachments/assets/404d4bb7-308a-4724-b04f-96dff36aa181" />
 <img width="2560" height="1440" alt="P3" src="https://github.com/user-attachments/assets/d03c3349-7554-4a38-935c-cf362e23c116" />
 <img width="2560" height="1440" alt="P4" src="https://github.com/user-attachments/assets/0a485d9c-6aa5-4b5a-8ee7-f804a2d8ecf0" />
