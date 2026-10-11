@@ -4,7 +4,7 @@
 
 原贴链接：https://tieba.baidu.com/p/9376504808
 
-中国大陆地区下载分流：https://pan.quark.cn/s/0aaeb063ba73
+大陆地区下载分流：[https://pan.quark.cn/s/0aaeb063ba73](https://pan.quark.cn/s/9f9a1d15d434)
 
 启动器界面：
 
