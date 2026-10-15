@@ -6,7 +6,7 @@
 
 该启动器及附带DX11补丁仅适用于Pla20140918R1版客户端
 
-大陆地区下载分流：https://pan.quark.cn/s/b9da8ac5ff68
+大陆地区下载分流：https://pan.quark.cn/s/587e53eec9ad
 
 启动器界面：
 
