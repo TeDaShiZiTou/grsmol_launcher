@@ -6,11 +6,12 @@
 
 该启动器及附带DX11补丁仅适用于Pla20140918R1版客户端
 
-大陆地区下载分流：https://pan.quark.cn/s/5144841527f0
+大陆地区下载分流：https://pan.quark.cn/s/b9da8ac5ff68
 
 启动器界面：
 
-<img width="596" height="493" alt="PLAOL" src="https://github.com/user-attachments/assets/40d92262-eb5f-4af6-8ee2-6beeed6a7a0c" />
+<img width="596" height="493" alt="PLAOL" src="https://github.com/user-attachments/assets/37524e26-2e36-477e-a9d2-4eaaf98af714" />
+
 
 
 
